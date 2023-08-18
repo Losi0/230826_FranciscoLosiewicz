@@ -1,0 +1,49 @@
+227    180  git config user.name "Losi0"
+  228    181  git config user.email "franciscolosievich@gmail.com"
+  229    182  git remote -v
+  230    183  git add remote origin https://github.com/Losi0/230826_FranciscoLosiewicz.git
+  231    184  git remote add origin https://github.com/Losi0/230826_FranciscoLosiewicz.git
+  232    185  git remote -v
+  233    186  touch main.js index.html
+  234    187  git add .
+  235    188  git commit -m "Commit 01 FranciscoLosiewicz"
+  236    189  git status
+  237    190  git push origin main
+  238    191  history
+  239    192  git branch feature
+  240    193  git branch
+  241    194  git feature
+  242    195  git checkout feature
+  243    196  touch Hardware Software SeguridadInformatica
+  244    197  -ls
+  245    198  ls
+  246    199  cd Hardware
+  247    200  -ls
+  248    201  ls
+  249    202  mkdir Hardware SeguridadInformatica Software
+  250    203  cd Hardware/
+  251    204  touch resumen.txt
+  252    205  cd ..
+  253    206  cd Software/
+  254    207  touch resumen.txt
+  255    208  cd ..
+  256    209  cd SeguridadInformatica/
+  257    210  touch resumen.txt
+  258    211  cd ..
+  259    212  git add.
+  260    213  git add .
+  261    214  git commit -m "Commit 02 FranciscoLosiewicz"
+  262    215  git status
+  263    216  git push origin feature
+  264    217  git checkout main
+  265    218  mv main.js resumenHardware.txt
+  266    219  mv index.html resumenSoftware,txt
+  267    220  ls
+  268    221  touch resumenHardware.txt rom,cache y ram
+  269    222  touch resumenSoftware,txt GoogleChrome, Roblox y Zoom
+  270    223  history
+  271  ls
+  272  mv resumenSoftware,txt resumenSoftware.txt
+  273  gedit resumenSoftware.txt Minecraft, Google Chrome y Zoom
+  274  touch comandos.txt
+  275  history
